@@ -1,0 +1,9 @@
+C:\Users\Ariel-sosa\documents\visual studio 2010\Projects\TrabajoPracticoN4\TrabajoPracticoN4\bin\Debug\TrabajoPracticoN4.exe
+C:\Users\Ariel-sosa\documents\visual studio 2010\Projects\TrabajoPracticoN4\TrabajoPracticoN4\bin\Debug\TrabajoPracticoN4.pdb
+C:\Users\Ariel-sosa\documents\visual studio 2010\Projects\TrabajoPracticoN4\TrabajoPracticoN4\bin\Debug\TrabajoPracticoN4.xml
+C:\Users\Ariel-sosa\documents\visual studio 2010\Projects\TrabajoPracticoN4\TrabajoPracticoN4\obj\x86\Debug\WindowsApplication1.TrabajoPracticoN4.resources
+C:\Users\Ariel-sosa\documents\visual studio 2010\Projects\TrabajoPracticoN4\TrabajoPracticoN4\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ariel-sosa\documents\visual studio 2010\Projects\TrabajoPracticoN4\TrabajoPracticoN4\obj\x86\Debug\TrabajoPracticoN4.vbproj.GenerateResource.Cache
+C:\Users\Ariel-sosa\documents\visual studio 2010\Projects\TrabajoPracticoN4\TrabajoPracticoN4\obj\x86\Debug\TrabajoPracticoN4.exe
+C:\Users\Ariel-sosa\documents\visual studio 2010\Projects\TrabajoPracticoN4\TrabajoPracticoN4\obj\x86\Debug\TrabajoPracticoN4.xml
+C:\Users\Ariel-sosa\documents\visual studio 2010\Projects\TrabajoPracticoN4\TrabajoPracticoN4\obj\x86\Debug\TrabajoPracticoN4.pdb
