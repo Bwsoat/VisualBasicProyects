@@ -1,0 +1,12 @@
+C:\Users\Ariel-sosa\AppData\Local\Temporary Projects\Actividad 3\bin\Debug\Actividad 3.exe
+C:\Users\Ariel-sosa\AppData\Local\Temporary Projects\Actividad 3\bin\Debug\Actividad 3.pdb
+C:\Users\Ariel-sosa\AppData\Local\Temporary Projects\Actividad 3\bin\Debug\Actividad 3.xml
+C:\Users\Ariel-sosa\AppData\Local\Temporary Projects\Actividad 3\obj\x86\Debug\Actividad_3.Actividad3.resources
+C:\Users\Ariel-sosa\AppData\Local\Temporary Projects\Actividad 3\obj\x86\Debug\Actividad_3.Resources.resources
+C:\Users\Ariel-sosa\AppData\Local\Temporary Projects\Actividad 3\obj\x86\Debug\Actividad 3.vbproj.GenerateResource.Cache
+C:\Users\Ariel-sosa\AppData\Local\Temporary Projects\Actividad 3\obj\x86\Debug\Actividad 3.exe
+C:\Users\Ariel-sosa\AppData\Local\Temporary Projects\Actividad 3\obj\x86\Debug\Actividad 3.xml
+C:\Users\Ariel-sosa\AppData\Local\Temporary Projects\Actividad 3\obj\x86\Debug\Actividad 3.pdb
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 3\Actividad 3\obj\x86\Debug\Actividad 3.exe
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 3\Actividad 3\obj\x86\Debug\Actividad 3.xml
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 3\Actividad 3\obj\x86\Debug\Actividad 3.pdb

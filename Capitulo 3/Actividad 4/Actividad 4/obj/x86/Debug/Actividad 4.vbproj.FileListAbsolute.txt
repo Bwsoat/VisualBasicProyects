@@ -1,0 +1,9 @@
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 4\Actividad 4\bin\Debug\Actividad 4.exe
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 4\Actividad 4\bin\Debug\Actividad 4.pdb
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 4\Actividad 4\bin\Debug\Actividad 4.xml
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 4\Actividad 4\obj\x86\Debug\Actividad_4.Actividad4.resources
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 4\Actividad 4\obj\x86\Debug\Actividad_4.Resources.resources
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 4\Actividad 4\obj\x86\Debug\Actividad 4.vbproj.GenerateResource.Cache
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 4\Actividad 4\obj\x86\Debug\Actividad 4.exe
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 4\Actividad 4\obj\x86\Debug\Actividad 4.xml
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 3\Actividad 4\Actividad 4\obj\x86\Debug\Actividad 4.pdb
