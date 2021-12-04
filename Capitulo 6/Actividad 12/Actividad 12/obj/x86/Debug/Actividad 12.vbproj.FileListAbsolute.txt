@@ -1,0 +1,9 @@
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 6\Actividad 12\Actividad 12\bin\Debug\Actividad 12.exe
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 6\Actividad 12\Actividad 12\bin\Debug\Actividad 12.pdb
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 6\Actividad 12\Actividad 12\bin\Debug\Actividad 12.xml
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 6\Actividad 12\Actividad 12\obj\x86\Debug\Actividad_12.Actividad12.resources
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 6\Actividad 12\Actividad 12\obj\x86\Debug\Actividad_12.Resources.resources
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 6\Actividad 12\Actividad 12\obj\x86\Debug\Actividad 12.vbproj.GenerateResource.Cache
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 6\Actividad 12\Actividad 12\obj\x86\Debug\Actividad 12.exe
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 6\Actividad 12\Actividad 12\obj\x86\Debug\Actividad 12.xml
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 6\Actividad 12\Actividad 12\obj\x86\Debug\Actividad 12.pdb
