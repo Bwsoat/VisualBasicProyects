@@ -1,0 +1,9 @@
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 4\Actividad 8\Actividad 8\bin\Debug\Actividad 8.exe
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 4\Actividad 8\Actividad 8\bin\Debug\Actividad 8.pdb
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 4\Actividad 8\Actividad 8\bin\Debug\Actividad 8.xml
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 4\Actividad 8\Actividad 8\obj\x86\Debug\Actividad_8.Actividad7.resources
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 4\Actividad 8\Actividad 8\obj\x86\Debug\Actividad_8.Resources.resources
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 4\Actividad 8\Actividad 8\obj\x86\Debug\Actividad 8.vbproj.GenerateResource.Cache
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 4\Actividad 8\Actividad 8\obj\x86\Debug\Actividad 8.exe
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 4\Actividad 8\Actividad 8\obj\x86\Debug\Actividad 8.xml
+C:\Users\Ariel-sosa\Documents\Visual Studio 2010\Projects\Capitulo 4\Actividad 8\Actividad 8\obj\x86\Debug\Actividad 8.pdb
